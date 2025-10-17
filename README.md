@@ -9,3 +9,9 @@ Instalar:
 - **Node.js** versión 18 o superior 
 
 - npm install axios tailwindcss
+
+Corre proyecto con:
+
+- npm run dev
+
+
